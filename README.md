@@ -1,4 +1,4 @@
-- 👋 I’m @KennedyMcMillan
+- 👋 I’m Kennedy McMillan
 - 👀 I’m interested in java development, front-end web development, IT technologies & etc
 - 🌱 I’m currently learning java programming
 
